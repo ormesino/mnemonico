@@ -1,0 +1,30 @@
+0
+Obrigado por me libertar!
+#
+1
+Boa! Estás perto da vitória.
+#
+2
+O poder dele está diminuindo.
+#
+3
+Pare, verdugo!
+#
+4
+Monstro insistente!
+#
+5
+Deixe me, vítima do mundo.
+#
+6
+Meu poder se esvai!
+#
+7
+Sinto-me mais fraco.
+#
+8
+Se me derrotares, muitos estarão desempregados! Pense nisso...
+#
+9
+Algoz maldito.
+#
