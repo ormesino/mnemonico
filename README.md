@@ -8,6 +8,6 @@ The rule set is one of the screens of the game as well as its storyline.
 The technical documentation for the game can be found in the .pdf file, as well as the presentation video, both in Portuguese.
 
 ## Developed by students:
-+ @zezedp
-+ @JulioBurlamaqui
++ [Guilherme Cappelli] (https://github.com/zezedp)
++ [Julio Burlamaqui] (https://github.com/JulioBurlamaqui)
 + Pedro Mateus Melo
