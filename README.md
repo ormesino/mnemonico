@@ -1,5 +1,5 @@
 # Mnemonico
-An game developed in C language for the final project on Computing 1 course.
+A game developed in C language for the final project on Computing 1 course.
 
 ## Rules and Plot:
 The rule set is one of the screens of the game as well as its storyline.
